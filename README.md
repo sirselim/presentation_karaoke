@@ -6,17 +6,20 @@ https://github.com/eleybourn/presentation_karaoke
 
 ## Demo
 You can see a working demo of this version on:
-https://regl.io/presentation_karaoke
-
-The original version by @eleybourn can be seen in action here:
-http://theagiledirector.com/presentation-karaoke
+https://sirselim.github.io/presentation_karaoke/
 
 ## How to run
-It is designed to be downloaded and run directly on your local computer.
-It's pure HTML and Javascript[2], so nothing to install.
+
+There are two ways you can run this:
+
+* open this [link](https://sirselim.github.io/presentation_karaoke/) in your internet browser and get started;
+
+or
+
+* downloaded and run directly on your local computer. It's pure HTML and Javascript[2], so nothing to install.
 
 1. **Download the application** 
-2. **Run `index.html`**
+2. **Run `index.html`** (open this file in a internet browser)
 3. **Select a topic set**
 4. **Press "Go"**
 
